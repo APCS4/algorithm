@@ -93,7 +93,7 @@ public class algoMiniLab {
         public void actionPerformed(ActionEvent e) {
         	//get String search from what user enters in text field and set an empty String to represent the display
             
-        	//write nested for loops to split languages ArrayList into Strings and then the Strings (representing lines) into Strings for each attribute (seperated by a tab, or //t)
+        	//write nested for loops to split languages ArrayList into Strings and then the Strings (representing lines) into Strings for each attribute (seperated by a tab, or \\t)
         	
         	//write if statement to compare search to each attribute, and add the language to the display string if it matches, along with a new line character
             
